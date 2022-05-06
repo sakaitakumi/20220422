@@ -3,4 +3,4 @@ title: STのホームページ
 description: GitHub Pagesで作りました
 logo: /logo.png
 plagins:
-  = jekyll-sitemap
+  - jekyll-sitemap
